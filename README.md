@@ -172,27 +172,6 @@ Both Single-LUT and Dual-LUT configurations have been carried through complete p
 | SPEF Extraction | ✅ Complete | ✅ Complete |
 | GDSII Generation | ✅ Complete | ✅ Complete |
 
-
-
-## 🖼️ Physical Design Views
-
-### Single-LUT — Post-Placement Layout (Cadence Innovus)
-> Placement view showing standard cell arrangement across the core area — TSMC 180nm, 5,152 cells, 100 MHz clock.
-
-![Single-LUT Placement](./singlelut/gdsii/1.png)
-
-### Single-LUT — Post-Route Layout with Metal Layers
-> Fully routed layout showing all metal layers (Metal1–Metal6) and via connections — fabrication-ready.
-
-![Single-LUT Routed](./singlelut/gdsii/3.png)
-
-### Dual-LUT — Post-Route Layout (Cadence Innovus)
-> Fully routed layout for Dual-LUT configuration — TSMC 180nm, 5,026 cells, 100 MHz clock.
-
-![Dual-LUT Routed](./duallut/gdsii/1.png)
-
----
-
 ## 📈 Functional Verification Results
 
 | Metric | Single-LUT | Dual-LUT |
