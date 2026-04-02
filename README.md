@@ -3,7 +3,6 @@
 > A fully fixed-point hardware architecture for the Softmax activation function — featuring dual-mode LUT-based exponentiation and an 8-stage pipelined Mitchell logarithmic division unit — designed for deployment in Deep Neural Network inference accelerators. Physical design completed through GDSII on TSMC 180nm using Cadence Genus and Cadence Innovus.
 
 ![Status](https://img.shields.io/badge/Status-SCI%20Journal%20Manuscript%20In%20Progress-yellow)
-![Type](https://img.shields.io/badge/Type-SCI%20Journal%20Article-blue)
 ![Tool](https://img.shields.io/badge/Tool-Cadence%20Genus%2021.14-blue)
 ![Tool](https://img.shields.io/badge/Tool-Cadence%20Innovus%2021.15-blue)
 ![PDK](https://img.shields.io/badge/PDK-TSMC%20180nm-orange)
