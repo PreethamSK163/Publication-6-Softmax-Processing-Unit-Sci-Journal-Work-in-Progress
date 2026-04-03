@@ -1,4 +1,4 @@
-# Sci Journal Paper (Work In Progress) — Fixed-Point Softmax Processing Unit with LUT-Based Exponent and Mitchell Logarithmic Divider
+# Sci Journal Paper (Work In Progress) — Silicon-Level Implementation and Performance Characterisation of a Fixed-Point Softmax Processing Unit for DNN Inference Accelerators
 
 > A fully fixed-point hardware architecture for the Softmax activation function — featuring dual-mode LUT-based exponentiation and an 8-stage pipelined Mitchell logarithmic division unit — designed for deployment in Deep Neural Network inference accelerators. Physical design completed through GDSII on TSMC 180nm using Cadence Genus and Cadence Innovus.
 
